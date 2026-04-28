@@ -7,7 +7,7 @@
 
 	const title="ช่วงนี้น้องขนมปังไม่นุ่มฟู"
 	const description="นิทานช่วยสื่อสารฟื้นฟูใจเด็กๆหลังเกิดภัยพิบัติ"
-	const ogImage = 'kanompang.insidethesandbox.studio/book/page-001.jpeg'
+	const ogImage = 'https://kanompang.insidethesandbox.studio/book/page-001.jpeg'
 </script>
 
 <MetaTags
