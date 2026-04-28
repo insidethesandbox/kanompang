@@ -28,5 +28,9 @@
 		"typescript": "^5.9.3",
 		"vite": "^7.2.6",
 		"wrangler": "^4.56.0"
+	},
+	"dependencies": {
+		"es-toolkit": "^1.46.0",
+		"remeda": "^2.34.0"
 	}
 }
